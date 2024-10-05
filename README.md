@@ -1,3 +1,7 @@
+<div align="center">
+  <img  alt="Header" width="400" src="https://res.cloudinary.com/practicaldev/image/fetch/s--NzgxrJEe--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/mdvk568xm4hmk3bjfsqs.gif">
+
+  </div>
 <h1 align="center">Hi 👋, I'm Gireeswar</h1>
 <h3 align="center">A Passionate Web Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif">
@@ -6,7 +10,7 @@
 
 - 🌱 I’m currently learning **Modern Web Designs**
 
-- 👯 I’m looking to collaborate on **React Projects**
+- 👯 I’m looking to collaborate on **Web Projects**
 
 - 👨‍💻 All of my projects are available at [https://react-portfolio-by-gireeswar.netlify.app/](https://react-portfolio-by-gireeswar.netlify.app/)
 
@@ -14,7 +18,7 @@
 
 - 📫 How to reach me **gireeswarcp18@gmail.com**
 
-- ⚡ Fun fact **Eat -> Sleep -> Code**
+- ⚡ Fun fact: **Eat -> Sleep -> Code**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -30,4 +34,21 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gireeswar18&show_icons=true&locale=en" alt="gireeswar18" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gireeswar18&" alt="gireeswar18" /></p>
+<p><img align<div align="center">
+<h2 align="center" class="section-heading"> 💻 Github Stats</h2>
+<p>Peek into my GitHub stats to see how I juggle code, coffee, and collaborations! Dive in to check out the milestones of my digital journey!</p>
+ <table align="center" width="100%" height="100%" >
+    <tr>
+       <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gireeswar18&theme=github_dark" alt="Gireeswar's GitHub Stats"/></td>   
+       <td><img style="border: none;" src="https://github-readme-streak-stats.herokuapp.com/?user=gireeswar18&theme=merko" alt="Gireeswar's Contribution Streak"/></td>
+    </tr>
+ </table>
+
+ <table align="center" width="100%" height="100%" >
+    <tr>
+        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gireeswar18&theme=github_dark" alt="Gireeswar's GitHub Stats"/></td>
+        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gireeswar18&theme=github_dark&utcOffset=10" alt="Gireeswar's GitHub Stats"/>
+        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gireeswar18&theme=github_dark" alt="Gireeswar's GitHub Stats"/></td>
+        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gireeswar18&theme=github_dark" alt="Gireeswar's GitHub Stats"/></td>
+    </tr>
+ </table>
