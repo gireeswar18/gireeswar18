@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on **Web Projects**
 
-- 👨‍💻 All of my projects are available at [https://react-portfolio-by-gireeswar.netlify.app/](https://react-portfolio-by-gireeswar.netlify.app/)
+- 👨‍💻 All of my projects are available at [my porfolio](https://gireeswarcp-v3.vercel.app/)
 
 - 💬 Ask me about **Java, Spring Boot and React**
 
