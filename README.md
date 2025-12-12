@@ -4,39 +4,36 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Software+Developer+%F0%9F%92%BB;Problem+Solver+%F0%9F%94%A5;Project+Builder+%F0%9F%9B%A0%EF%B8%8F;Lifelong+Learner+%F0%9F%8C%8A" alt="Typing SVG" />
 </p>
 
-<p align="center">I'm a Software Developer who loves turning ideas into reality through code and design 🚀</p>
+<p align="center">I’m a Software Developer interested in Cloud and AI</p>
 
 ---
 
 ### 🚀 What I Do
 
-- 🛠️ I build full-stack projects using **Spring Boot** and **React**
-- 🌱 Right now, I'm exploring the world of **Cloud** technologies
+- Building full‑stack projects that actually feel nice to use
+
+- Learning Cloud and AI
+
+- Improving problem‑solving with Java and Python.
 
 ---
 
 ### 🛠️ Skills I’m Confident With
 
-- **Languages:** ![Java](https://img.shields.io/badge/Java-orange?style=flat) ![Python](https://img.shields.io/badge/Python-blue?style=flat) ![C++](https://img.shields.io/badge/C++-00599C?style=flat) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat)
-- **Frameworks:** ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat) ![React](https://img.shields.io/badge/React-1572B6?style=flat) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat) ![JPA](https://img.shields.io/badge/JPA-59666C?style=flat) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat)
-- **Databases:** ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat)
-- **Tools:** ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat) ![Git](https://img.shields.io/badge/Git-20232A?style=flat)
+- **Languages:** [![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#) [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#) [![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](#) [![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#) [![CSS](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff)](#)
+- **Frameworks:** [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff)](#) 	[![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#) [![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white)](#) [![FastAPI](https://img.shields.io/badge/FastAPI-009485.svg?logo=fastapi&logoColor=white)](#)
+- **Databases:** [![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#) [![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)](#)	[![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)](#)
+- **Tools:** [![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#) [![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)](#) [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](#)
+
+- **Cloud**: [![AWS](https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?logo=aws&logoColor=white)](#) [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#)
 
 ---
 
-### 🌱 A Little About Me
+### 📊 GitHub Stats:
 
-I come from a remote village, and everything I’ve learned — from coding to design — has been fueled by passion and continuous learning.
-With every challenge, I’ve grown stronger, and I’m excited to keep building, exploring, and mastering design and development, one project at a time. 💪✨
-
-
-
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gireeswar18&show_icons=true&theme=radical" alt="Gireeswar's GitHub Stats" />
-</p>
+![](https://github-readme-stats.vercel.app/api?username=gireeswar18&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=gireeswar18&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=gireeswar18&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 ---
 
